@@ -1,0 +1,3 @@
+﻿  Anonimus_functions.cpp
+C:\Users\glebo\source\repos\Anonimus_functions\Anonimus_functions\Anonimus_functions.cpp(12,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Anonimus_functions.vcxproj -> C:\Users\glebo\source\repos\Anonimus_functions\x64\Debug\Anonimus_functions.exe
